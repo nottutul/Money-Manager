@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189838799053",
+    "project_id": "money-manager-f6c8f",
+    "storage_bucket": "money-manager-f6c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189838799053:android:cd78252d1e3143518c3984",
+        "android_client_info": {
+          "package_name": "com.example.login_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189838799053-5j3egu45er4rugb8b3lm93birjb7mjai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkI1FG_8CFIssmsmB1oplyMtUiCiSzJcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189838799053-5j3egu45er4rugb8b3lm93birjb7mjai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
